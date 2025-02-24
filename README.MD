@@ -14,3 +14,14 @@ El proyecto consta de los siguientes archivos:
 1. Clonar el repositorio:
 
 ```https://github.com/Anonymous2998/challengeAluraG8.git```
+
+## Uso
+
+Para obtener una mejor visualización de la estructura se recomienda utilizar Visual Studio Code
+
+## Resultado Final
+
+El juego consiste en agregar nombres los cuales se iran almacenando en una lista; posteriormente de esta lista se obtendra el nombre de una persona la cual sera el amigo secreto.
+
+El campo solo receptara nombres ya que contiene las respectivas validaciones para impedir que se puedan ingresar caracteres especiales o números u expresiones que no vayan acorde al nombre.
+
